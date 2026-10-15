@@ -1,1 +1,17 @@
-testi
+[ SERVER UPDATE / PATCH NOTES — FERLAY ]
+
+Halo Warga! 👋
+Berikut adalah catatan pembaruan (*patch notes*) terbaru untuk server kita. Silakan disimak rincian update kali ini:
+
+-# ~~                                                                                    ~~
+
+🟢 **NEW FEATURES & SYSTEM UPDATE**
+* **Sistem Kepemilikan (Owner):** Icon pada tempat/bisnis tertentu kini berubah menjadi hijau jika sudah memiliki owner.
+* **Fitur Gun Stock Otomatis:** Penambahan command `CMD:setstockgun` khusus Admin Level 5-7 untuk mengatur stok senjata pada meja tertentu (`[idmeja]`) dengan batas maksimal 5 buah dan sistem *auto-restock* setiap 8 jam sekali.
+* **Fitur Custom Spawn Jail (`/setspawnjail`):** Penambahan command admin untuk mengatur titik spawn khusus penjara, sehingga ketika admin melakukan `/jail` pada player, player akan otomatis dilempar ke titik spawn jail yang telah ditentukan tersebut.
+* **Admin Command (`/ahelp`):** Penambahan dan pembaruan daftar command `/setstockgun` serta `/setspawnjail` pada menu bantuan admin (`/ahelp`).
+
+-# ~~                                                                                    ~~
+
+*Terima kasih atas dukungan dan masukan kalian untuk terus membangun server ini agar makin seru! Jangan lupa restart game kalian jika diperlukan.* 🚀
+
